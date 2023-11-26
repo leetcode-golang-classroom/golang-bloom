@@ -14,3 +14,4 @@ Bloom filter is false positive, which mean even if Bloom filter return true, the
 
 Only could make sure, whether the information is not in Bloom filter record
 
+![image](https://i.imgur.com/7FM8kxb.png)
